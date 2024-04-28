@@ -1,0 +1,6 @@
+[submodule "Samsung_EcoCitizen-Front"]
+	path = Samsung_EcoCitizen-Front
+	url = https://github.com/leofunow/Samsung_EcoCitizen-Front.git
+[submodule "Samsung_EcoCitizen-Back"]
+	path = Samsung_EcoCitizen-Back
+	url = https://github.com/leofunow/Samsung_EcoCitizen-Back.git
